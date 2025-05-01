@@ -1,0 +1,8 @@
+# Ignorer les fichiers temporaires et binaires
+*.class
+*.log
+*.tmp
+*.exe
+*.bin
+.DS_Store
+node_modules/
