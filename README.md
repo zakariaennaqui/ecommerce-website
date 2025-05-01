@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projet Site E-commerce - UML & Génie Logiciel
 
 Ce dépôt contient tous les livrables liés à notre projet de site e-commerce réalisé dans le cadre du cours de Génie Logiciel :
@@ -18,6 +17,3 @@ Ce dépôt contient tous les livrables liés à notre projet de site e-commerce 
 ## Auteurs
 - Zakaria Ennaqui – [Mon GitHub](https://github.com/zakariaennaqui)
 - Achraf Abdelfadel – [Mon GitHub](https://github.com/abdelfadelAchraf)
-=======
-# site-ecommerce-uml
->>>>>>> 84556de0857c2d3ae4167e64e006d4e293805920
