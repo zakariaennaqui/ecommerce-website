@@ -3,7 +3,7 @@
 Ce dépôt contient tous les livrables liés à notre projet de site e-commerce réalisé dans le cadre du cours de Génie Logiciel :
 
 ## Contenu
-- Diagrammes UML (PlantUML)
+- Diagrammes UML
 - Rapport de projet (PDF)
 - Analyse des architectures logicielles
 - Captures d’écran des étapes clés
@@ -11,8 +11,8 @@ Ce dépôt contient tous les livrables liés à notre projet de site e-commerce 
 
 ## Technologies
 - HTML, CSS, JS, Node.js
-- PlantUML
-- GanttProject
+- UML
+- Gantt
 
 ## Auteurs
 - Zakaria Ennaqui – [Mon GitHub](https://github.com/zakariaennaqui)
