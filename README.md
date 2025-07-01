@@ -2,7 +2,7 @@
 
 Ce dépôt contient tous les livrables liés à notre projet de site e-commerce réalisé dans le cadre du cours de Génie Logiciel :
 
-🔗 **Lien vers le projet GitHub :** [https://github.com/zakariaennaqui/ecommerce-app](https://github.com/zakariaennaqui/ecommerce-app)
+🔗 **Lien vers le projet GitHub :** [github.com/zakariaennaqui/ecommerce-app](https://github.com/zakariaennaqui/ecommerce-app)
 
 ## Contenu
 - Diagrammes UML  
