@@ -11,8 +11,8 @@ Ce dépôt contient tous les livrables liés à notre projet de site e-commerce 
 - Captures d’écran des étapes clés
 
 ## Technologies
-- React JS, MERN Stack eCommerce Project with Stripe  
-- Conception UML, Gantt
+- React JS, MERN Stack eCommerce Project with Stripe
+- Conception UML
 ## Auteurs
 - Zakaria Ennaqui – [Mon GitHub](https://github.com/zakariaennaqui)  
 - Achraf Abdelfadel – [Mon GitHub](https://github.com/abdelfadelAchraf)  
